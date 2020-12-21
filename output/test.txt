@@ -1,0 +1,10 @@
+\\Root\LIST RESOURCES ZONE_49
+Listing filtered floor inventory using filter resources, zone_49, progress: : 100%
+
+1D OBJECT TYPE STATUS
+TOOL_REFILL_256 Resources Normal
+MEDIPACK_767 Resources Normal
+AMMOPACK_471 Resources Normal
+
+\\Root\
+
