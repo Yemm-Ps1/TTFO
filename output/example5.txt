@@ -1,0 +1,69 @@
+ID OBJECT TYPE STATUS
+
+DOOR_382 Passage Normal
+DOOR_624 Passage Normal
+MEDIPACK_386 Resources Normal
+LOCKER_455 Storage Normal
+LOCKER_284 Storage Normal
+TERMINAL_625 Terminal Normal
+GENERATOR_276 Unknown UnPowered
+GENERATOR_785 Unknown UnPowered
+
+\\Root\LIST ZONE_53
+Listing filtered floor inventory using filter zone_53, progress: : 100%
+
+ 
+
+ 
+
+1D OBJECT TYPE STATUS
+DOOR_128 Normal
+DOOR_119 Normal
+MEDIPACK_562 Resources Normal
+BOX_632 Storage Normal.
+LOCKER_173 Storage Normal.
+LOCKER 420 Storage Normal
+BOX_150 Normal
+LOCKER_764 Normal
+TERMINAL_410 Terminal Normal
+GENERATOR_396 Unknown UnPowered
+GENERATOR_453 Unknown UnPowered
+
+\\Root\LIST ZONE_54 {
+Listing filtered floor inventory using filter zone_54, progress: : 106%
+
+ 
+
+50) OBJECT TYPE STATUS
+
+DOOR_167 sage Normal
+
+SEC_DOOR_275 Passage Normal
+
+LOCKER_923 Storage Normal
+
+GENERATOR_388 Unknown UnPowered
+
+GENERATOR_155 Unknown UnPowered
+
+LOCKER_752 Storage Normal.
+
+BOX_736 Storage Normal
+
+TERMINAL_102 Terminal Normal ]
+GENERATOR_647 Unknown UnPowered |
+BOX_865 Storage Normal
+
+BOX_103 Storage Normal
+
+LOCKER_986 Storage Normal
+
+MEDIPACK_500 Resources Normal.
+
+AMMOPACK_646 Resources Normal
+
+\\Root\_
+
+EARLY ACCESS ve.
+CORTEX NT R:iB di9Ke
+
